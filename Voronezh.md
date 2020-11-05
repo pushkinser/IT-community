@@ -1,4 +1,7 @@
 # Воронеж
+## IT Воронеж
+Формирование IT среды в городе Воронеж, дайджест событий и объедениение сообществ.
+- [Telegram-канал](https://t.me/vrnit) - https://t.me/vrnit
 
 ## Глубокий рефакторинг
 - [Сайт](https://deeprefactoring.ru) - https://deeprefactoring.r
